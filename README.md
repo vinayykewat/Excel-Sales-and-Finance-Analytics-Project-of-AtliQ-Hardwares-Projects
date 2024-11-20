@@ -1,4 +1,4 @@
-[Uploading Project.README.md.file (1).pdf…]()
+[Project.README.md.file (1).pdf](https://github.com/user-attachments/files/17824498/Project.README.md.file.1.pdf)
 
 
 Excel - Sales and Finance Analytics Project 
